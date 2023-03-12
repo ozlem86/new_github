@@ -6,5 +6,8 @@ public class Toplam {
         //
         //ozlem brach ekledim
         //stashing is gecici olarak zulala demek mis
+
+        // yeni eklemeler
+        // kontol blocklari
     }
 }
