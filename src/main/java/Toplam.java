@@ -5,5 +5,6 @@ public class Toplam {
         System.out.println("version 3");
         //
         //ozlem brach ekledim
+        //stashing is gecici olarak zulala demek mis
     }
 }
