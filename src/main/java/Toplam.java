@@ -6,6 +6,7 @@ public class Toplam {
         System.out.println("v4");
         // v5 master kodlari
         // v6 kodlari
+        //stash deneme kodu...
 
     }
 }
