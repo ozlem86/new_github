@@ -7,6 +7,7 @@ public class Toplam {
         // v5 master kodlari
         // v6 kodlari
         //stash deneme kodu...
+        //restore stage
 
     }
 }
