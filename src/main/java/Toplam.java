@@ -9,5 +9,7 @@ public class Toplam {
 
         // yeni eklemeler
         // kontol blocklari
+        
+        //gitupp ilk deneme
     }
 }
